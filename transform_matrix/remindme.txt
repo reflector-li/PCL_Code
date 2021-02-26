@@ -1,0 +1,1 @@
+1.当修改完程序后，不能直接通过"./transform_matrix cube.ply"运行程序，需要先进入build文件夹下进行"make"编译，然后再运行。
