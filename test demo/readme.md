@@ -8,4 +8,10 @@ PCL库使用记录：
    pcl_viewer  test_pcd.pcd
    ```
 
+3. 卸载PCL库命令：在build文件夹内执行
 
+   ```
+   sudo  make uninstall
+   ```
+
+   
